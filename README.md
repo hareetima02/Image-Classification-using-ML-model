@@ -54,7 +54,4 @@ This implementation uses TensorFlow and Keras for model building, training, and 
   - Adam optimizer for adaptive learning rate adjustment.
   - Categorical Crossentropy loss function for multi-class classification.
 
----
 
-   git clone <repository-link>
-   cd <repository-folder>
